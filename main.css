@@ -6,7 +6,7 @@ body{
   
   /*Defined the color of the background and text of heading 1. Also centered the heading on the page.*/
   /*Using the margin tool, I moved the remaining text to follow under the main heading.*/
-  h1 {
+  h1{
     margin-right: 400px;
     font-size: 36px;
     margin-left: 20px;
