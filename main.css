@@ -1,0 +1,35 @@
+ /*Set the font and color of text used throughout the page, unless specified specifically. Along with uniform colored background.*/
+body{
+    background-color: rgb(235, 235, 235) ;
+    color: rgb(26, 24, 24);d
+  }
+  
+  /*Defined the color of the background and text of heading 1. Also centered the heading on the page.*/
+  /*Using the margin tool, I moved the remaining text to follow under the main heading.*/
+  h1 {
+    margin-right: 400px;
+    font-size: 36px;
+    margin-left: 20px;
+  }
+  h2{
+    margin-right: 400px;
+    margin-left: 20px;
+    font-weight: bold;
+    }
+  p{
+        margin-right: 500px;
+        margin-left: 20px;
+        font-weight: bold;
+  }
+    h3{
+        margin-left: 400px;
+        font-weight: bold;
+    }
+    ul{
+            margin-left: 20px;
+            font-weight: bold;
+    }
+    footer{
+        margin-right: 200px;
+        margin-left: 0px;
+    }
