@@ -20,16 +20,23 @@ body{
         margin-right: 500px;
         margin-left: 20px;
         font-weight: bold;
+        font-size: 18px;
   }
     h3{
-        margin-left: 400px;
+        margin-left: 20px;
         font-weight: bold;
     }
+    li{margin-left: 20px;
+      font-weight: bold;
+      font-size: 18px;}
     ul{
             margin-left: 20px;
             font-weight: bold;
+            font-size: 18px;
     }
     footer{
         margin-right: 200px;
         margin-left: 0px;
     }
+   img{margin-right: 200px;
+    margin-left: 20px;}
